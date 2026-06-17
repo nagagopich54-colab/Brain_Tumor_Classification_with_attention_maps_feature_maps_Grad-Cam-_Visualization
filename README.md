@@ -27,3 +27,13 @@ python visualize.py
 # Code Availability
 🔗 DOI: https://doi.org/10.5281/zenodo.20037856  
 🔗 GitHub: https://github.com/nagagopich54-colab/Brain_Tumor_Classification_with_attention_maps_feature_maps_Grad-Cam-_Visualization
+
+# Related Manuscript
+This repository contains the official implementation associated with a manuscript currently submitted to The Visual Computer.
+If you use this code or related materials in your research, please cite the corresponding manuscript and the Zenodo archive (DOI: 10.5281/zenodo.20037856).
+
+# Reproducibility Statement
+This repository provides source code, dependency information, model implementation details, training procedures, evaluation protocols, and visualization scripts required to reproduce the reported experimental results.
+
+# Citation
+DOI: 10.5281/zenodo.20037856
