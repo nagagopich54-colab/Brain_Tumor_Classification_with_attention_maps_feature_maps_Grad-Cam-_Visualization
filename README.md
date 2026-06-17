@@ -1,4 +1,4 @@
-# Brain_Tumor_Classification_with_attention_maps_feature_maps_Grad-Cam++_Visualizatio
+# Brain Tumor Classification with attention maps feature maps Grad-Cam++ Visualization
 # Hybrid BEiT + EfficientNetV2-M for Brain Tumor Classification
 # Overview
 This repository contains the implementation of a hybrid CNN-Transformer model combining EfficientNetV2-M and BEiT for MRI-based brain tumor classification.
